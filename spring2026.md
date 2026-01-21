@@ -4,6 +4,7 @@
 
 # Calculus II
 ## [!Due May 10 8AM]
+## [!Tests Not Listed]
 ### 1.5/week
 - [] 5.1
 - [] 5.2
@@ -24,7 +25,6 @@
 - [] 8.5
 - [] 8.6
 - [] 8.8
-## [!Tests Not Listed]
 
 
 # Biology II
