@@ -5,7 +5,8 @@
 # Calculus II
 ## [!Due May 10 8AM]
 ## [!Tests Not Listed]
-### 1.5/week
+* [!1.5/week]
+
 - [] 5.1
 - [] 5.2
 - [] 5.4
@@ -29,8 +30,9 @@
 
 # Biology II
 ## [!Due March 4th] 11 Labs -- First Half
-### Should do 2/week
-- [] Virtual Lab Tutorial
+* [!Should do 2/week]
+
+- [x] Virtual Lab Tutorial
 - [] Mosses and Ferms
 - [] Gymnosperms
 - [] Flowering Plant Anatomy
@@ -44,10 +46,11 @@
 - [] Frog Dissection
 
 ## [!Due Feb. 4th] Module 1
-### Do 4/week
+* [!Do 4/week]
+
 - [] [!Exam 1 Respondus 60 Questions]
-- [] Chapter 23 Smartbook
-- [] Chapter 23 Homework
+- [x] Chapter 23 Smartbook
+- [x] Chapter 23 Homework
 - [] Chapter 24 Smartbook
 - [] Chapter 24 Homework
 - [] Chapter 25 Smartbook
@@ -55,14 +58,16 @@
 - [] Chapter 27 Smartbook
 - [] Chapter 27 Homework
 
+## [Due Feb. 18th] Enrichment Activities 
 
 # Prob and Stats
 ## [!Due Feb. 6th 11:59PM]
-### Do 4/week
+* [!Do 4/week]
+
 - [] [! Quiz 1.1 -> 3.3]
 - [] [! Test 1.1 -> 3.3]
-- [] 1.1
-- [] 1.2
+- [x] 1.1
+- [x] 1.2
 - [] 1.3
 - [] 2.1
 - [] 2.2
