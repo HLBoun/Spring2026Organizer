@@ -52,7 +52,7 @@
 - [x] Chapter 23 Smartbook
 - [x] Chapter 23 Homework
 - [] Chapter 24 Smartbook
-- [] Chapter 24 Homework
+- [x] Chapter 24 Homework
 - [] Chapter 25 Smartbook
 - [] Chapter 25 Homework
 - [] Chapter 27 Smartbook
@@ -61,9 +61,7 @@
 ## [Due Feb. 18th] Enrichment Activities 
 
 # Prob and Stats
-## [!Due Feb. 6th 11:59PM]
-* [!Do 4/week]
-
+## [!Due Feb. 6th 11:59PM] * [!Do 4/week]
 - [] [! Quiz 1.1 -> 3.3]
 - [] [! Test 1.1 -> 3.3]
 - [x] 1.1
