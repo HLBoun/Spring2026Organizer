@@ -54,9 +54,9 @@
 - [] Chapter 24 Smartbook
 - [x] Chapter 24 Homework
 - [] Chapter 25 Smartbook
-- [] Chapter 25 Homework
+- [x] Chapter 25 Homework
 - [] Chapter 27 Smartbook
-- [] Chapter 27 Homework
+- [x] Chapter 27 Homework
 
 ## [Due Feb. 18th] Enrichment Activities 
 
@@ -66,13 +66,13 @@
 - [] [! Test 1.1 -> 3.3]
 - [x] 1.1
 - [x] 1.2
-- [] 1.3
-- [] 2.1
-- [] 2.2
-- [] 2.3
-- [] 3.1
-- [] 3.2
-- [] 3.3
+- [x] 1.3
+- [x] 2.1
+- [x] 2.2
+- [x] 2.3
+- [x] 3.1
+- [x] 3.2
+- [x] 3.3
 
 
 
