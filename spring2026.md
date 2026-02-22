@@ -7,7 +7,7 @@
 ## [!Tests Not Listed]
 * [!1.5/week]
 
-- [] 5.1
+- [x] 5.1
 - [] 5.2
 - [] 5.4
 - [] 5.5
@@ -59,11 +59,11 @@
 - [x] Chapter 27 Homework
 
 ## [Due Feb. 18th] Enrichment Activities 
-
+- [] Career Dive
 # Prob and Stats
 ## [!Due Feb. 6th 11:59PM] * [!Do 4/week]
-- [] [! Quiz 1.1 -> 3.3]
-- [] [! Test 1.1 -> 3.3]
+- [x] [! Quiz 1.1 -> 3.3]
+- [x] [! Test 1.1 -> 3.3]
 - [x] 1.1
 - [x] 1.2
 - [x] 1.3
@@ -74,5 +74,12 @@
 - [x] 3.2
 - [x] 3.3
 
-
+- [] [! Quiz 4.1 -> 5.2]
+- [] [! Test 4.1 -> 5.2]
+- [] 4.1
+- [] 4.2
+- [] 4.3
+- [] 4.4
+- [] 5.1
+- [] 5.2
 
