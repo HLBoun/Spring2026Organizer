@@ -4,11 +4,13 @@
 
 # Calculus II
 ## [!Due May 10 8AM]
-## [!Tests Not Listed]
 * [!1.5/week]
 
+- [] Test 1
+- [] Test 2
+
 - [x] 5.1
-- [] 5.2
+- [x] 5.2
 - [] 5.4
 - [] 5.5
 - [] 5.6
@@ -58,8 +60,19 @@
 - [] Chapter 27 Smartbook
 - [x] Chapter 27 Homework
 
+## [!Due Feb. 25th] Module 1
+
+- [] Chapter 28 Smartbook
+- [] Chapter 28 Homework
+- [] Chapter 29 Smartbook
+- [] Chapter 29 Homework
+- [] Chapter 31 Smartbook
+- [] Chapter 31 Homework
+
 ## [Due Feb. 18th] Enrichment Activities 
-- [] Career Dive
+- [x] Career Dive
+
+
 # Prob and Stats
 ## [!Due Feb. 6th 11:59PM] * [!Do 4/week]
 - [x] [! Quiz 1.1 -> 3.3]
@@ -74,6 +87,7 @@
 - [x] 3.2
 - [x] 3.3
 
+## [!Due Feb. 27th 11:59PM]
 - [] [! Quiz 4.1 -> 5.2]
 - [] [! Test 4.1 -> 5.2]
 - [] 4.1
