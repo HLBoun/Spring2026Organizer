@@ -62,11 +62,11 @@
 
 ## [!Due Feb. 25th] Module 1
 
-- [] Chapter 28 Smartbook
-- [] Chapter 28 Homework
-- [] Chapter 29 Smartbook
-- [] Chapter 29 Homework
-- [] Chapter 31 Smartbook
+- [x] Chapter 28 Smartbook
+- [x] Chapter 28 Homework
+- [x] Chapter 29 Smartbook
+- [x] Chapter 29 Homework
+- [x] Chapter 31 Smartbook
 - [] Chapter 31 Homework
 
 ## [Due Feb. 18th] Enrichment Activities 
